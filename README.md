@@ -9,7 +9,7 @@ This repository is part of the Coursera course: [Python, Bash and SQL Essentials
 4. Setup a provisioned Python project environment
 
 ## Exercise
-For this exercise, you will be using data from the [sample_data/](/../../sample_data) and the [exercise.ipynb](/../../exercise.ipynb) notebook. The notebook contains pre-written code that you can use to complete the exercise. Please refer to the Coursera instructions for details on how to complete this exercise.
+For this exercise, you will be using data from the [sample_data/](/../../tree/main/sample_data) and the [exercise.ipynb](/../../exercise.ipynb) notebook. The notebook contains pre-written code that you can use to complete the exercise. Please refer to the Coursera instructions for details on how to complete this exercise.
 
 ## Questions or Issues?
 Please use the [Issues](/../../issues) tab to report any issues or ask questions. Any feedback is welcome!
